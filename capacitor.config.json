@@ -1,0 +1,11 @@
+{
+  "appId": "com.example.test",
+  "appName": "test-app",
+  "bundledWebRuntime": false,
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
